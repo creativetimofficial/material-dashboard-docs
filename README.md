@@ -7,7 +7,7 @@
 
 This repository has the content of [Creative Tim](https://www.creative-tim.com), specifically the documentation of the product [Material Dashboard](https://www.creative-tim.com/product/material-dashboard). You will find in the root of the repository two folders [JA](https://github.com/creativetimofficial/material-dashboard-docs/tree/master/ja/docs/2.1) and [ZH](https://github.com/creativetimofficial/material-dashboard-docs/tree/master/zh/docs/2.1) that has to be correct translated.
 
-If you noticed some misspelling into our Chinese or Japanese Documentation translate, we will be grateful if you are willing to help us bringing this version to a better version. So, if you want to help us here are some steps that you need to follow to improve our documentation:
+If you noticed some misspelling into our Chinese or Japanese Documentation translate, we will be grateful if you are willing to help us bringing this to a better version. So, if you want to help us here are some steps that you need to follow to improve our documentation:
 
  - You have to click **Edit in Github** button from the top-right of the page and this will redirect you to this repository
 
